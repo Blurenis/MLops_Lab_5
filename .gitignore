@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and Models (often large or sensitive)
+data/
+models/
+*.csv
+*.xlsx
+*.log
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
